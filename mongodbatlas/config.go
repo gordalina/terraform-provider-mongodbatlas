@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	dac "github.com/akshaykarle/go-http-digest-auth-client"
-	ma "github.com/akshaykarle/go-mongodbatlas/mongodbatlas"
+	ma "github.com/gordalina/go-mongodbatlas/mongodbatlas"
 )
 
 type Config struct {

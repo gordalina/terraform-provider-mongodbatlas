@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/akshaykarle/terraform-provider-mongodbatlas/mongodbatlas"
+	"github.com/gordalina/terraform-provider-mongodbatlas/mongodbatlas"
 	"github.com/hashicorp/terraform/plugin"
 )
 
