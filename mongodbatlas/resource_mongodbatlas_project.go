@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	ma "github.com/akshaykarle/go-mongodbatlas/mongodbatlas"
+	ma "github.com/gordalina/go-mongodbatlas/mongodbatlas"
 	"github.com/hashicorp/terraform/helper/schema"
 )
 

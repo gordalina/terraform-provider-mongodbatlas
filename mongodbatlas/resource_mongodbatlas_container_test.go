@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	ma "github.com/akshaykarle/go-mongodbatlas/mongodbatlas"
+	ma "github.com/gordalina/go-mongodbatlas/mongodbatlas"
 	"github.com/hashicorp/terraform/helper/resource"
 	"github.com/hashicorp/terraform/terraform"
 )
